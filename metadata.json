@@ -1,0 +1,6 @@
+{
+  "name": "Collably",
+  "description": "A premium professional platform connecting content creators with production professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
